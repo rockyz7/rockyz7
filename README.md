@@ -1,10 +1,10 @@
 
-
+### Hi there 👋
 
 
 <!--
 **rockyz7/rockyz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Rocky</h1>
-<h3 align="center">A fullstack software developer</h3>
+
 
 
 
