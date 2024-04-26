@@ -1,4 +1,6 @@
 
+<br clear="both">
+
 <h1 align="left">Hey, there 👋</h1>
 
 ###
@@ -6,6 +8,8 @@
 <p align="left">My name is Rocky and I'm a full-stack software developer.</p>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">💻 Tech Stack:</h2>
 
@@ -53,8 +57,6 @@
 </div>
 
 ###
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **rockyz7/rockyz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
