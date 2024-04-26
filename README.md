@@ -1,10 +1,4 @@
-<br clear="both">
 
-<h1 align="left">Hey, there 👋</h1>
-
-###
-
-<p align="left">My name is Rocky and I'm a full-stack software developer.</p>
 
 <br clear="both">
 
