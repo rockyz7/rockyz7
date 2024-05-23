@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Rocky and I'm a full-stack software developer.</p>
+<p align="left">My name is Rocky and I'm a software developer.</p>
 
 ###
 
